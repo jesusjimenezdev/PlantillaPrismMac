@@ -1,0 +1,14 @@
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/bin/Debug/netstandard2.0/EjemploPrismMac.deps.json
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/bin/Debug/netstandard2.0/EjemploPrismMac.dll
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/bin/Debug/netstandard2.0/ref/EjemploPrismMac.dll
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/bin/Debug/netstandard2.0/EjemploPrismMac.pdb
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/obj/Debug/netstandard2.0/EjemploPrismMac.csprojAssemblyReference.cache
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/obj/Debug/netstandard2.0/EjemploPrismMac.csproj.CoreCompileInputs.cache
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/obj/Debug/netstandard2.0/EjemploPrismMac.AssemblyInfoInputs.cache
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/obj/Debug/netstandard2.0/EjemploPrismMac.AssemblyInfo.cs
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/obj/Debug/netstandard2.0/EjemploPrismMac.dll
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/obj/Debug/netstandard2.0/ref/EjemploPrismMac.dll
+/Users/jesus/Desktop/EjemploPrismMac/EjemploPrismMac/obj/Debug/netstandard2.0/EjemploPrismMac.pdb

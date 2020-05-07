@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{4070CD01-0054-46E5-B677-4FE38D164359}|Default">
+  <MonoDevelop.Ide.ItemProperties.EjemploPrismMac.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EjemploPrismMac/App.xaml.cs">
+    <Files>
+      <File FileName="EjemploPrismMac/App.xaml" Line="8" Column="56" />
+      <File FileName="EjemploPrismMac/App.xaml.cs" Line="7" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EjemploPrismMac" expanded="True">
+            <Node name="EjemploPrismMac" expanded="True">
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EjemploPrismMac.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3C1E3CF4-1669-4359-94EA-28A7ABB4AC10" />
+</Properties>
